@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Mock API server for Pet Hospital",
   "scripts": {
-    "start": "json-server --watch db.json --port 5000"
+    "start": "node server.js"
   },
   "dependencies": {
     "json-server": "^0.17.4"
