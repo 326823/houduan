@@ -15,7 +15,7 @@ server.use(jsonServer.bodyParser);
 server.use(router);
 
 // Deploy on environment port or default to 10000 (Render requirements)
-const port = process.env.PORT || 10000;
+const port = process.env.PORT || 5000;
 
 server.listen(port, '0.0.0.0', () => {
     console.log(`JSON Server is running on port ${port}`);

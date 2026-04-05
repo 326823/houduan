@@ -1,684 +1,170 @@
 {
-  "records": [
-    {
-      "id": 1,
-      "petName": "糯米",
-      "ownerName": "唐鹏",
-      "phone": "137-1985-9604",
-      "type": "🐶 犬类",
-      "status": "治疗中",
-      "lastVisit": "2026-03-23 02:58"
-    },
-    {
-      "id": 2,
-      "petName": "珍珠",
-      "ownerName": "张欣",
-      "phone": "130-7723-8517",
-      "type": "🐱 猫咪",
-      "status": "已康复",
-      "lastVisit": "2026-03-11 02:58"
-    },
-    {
-      "id": 3,
-      "petName": "小黑",
-      "ownerName": "王欣",
-      "phone": "132-1164-4994",
-      "type": "🕊️ 鸟类",
-      "status": "观察中",
-      "lastVisit": "2026-03-25 02:58"
-    },
-    {
-      "id": 4,
-      "petName": "豆豆",
-      "ownerName": "郭丽",
-      "phone": "137-3358-7112",
-      "type": "🐶 犬类",
-      "status": "治疗中",
-      "lastVisit": "2026-03-07 02:58"
-    },
-    {
-      "id": 5,
-      "petName": "大黄",
-      "ownerName": "宋平",
-      "phone": "131-2490-9512",
-      "type": "🐱 猫咪",
-      "status": "已康复",
-      "lastVisit": "2026-04-01 02:58"
-    },
-    {
-      "id": 6,
-      "petName": "糯米",
-      "ownerName": "马凤",
-      "phone": "130-1922-6486",
-      "type": "🐱 猫咪",
-      "status": "观察中",
-      "lastVisit": "2026-03-16 02:58"
-    },
-    {
-      "id": 7,
-      "petName": "蛋黄",
-      "ownerName": "赵华",
-      "phone": "138-6789-5998",
-      "type": "🦎 异宠",
-      "status": "已康复",
-      "lastVisit": "2026-03-20 02:58"
-    },
-    {
-      "id": 8,
-      "petName": "煤球 8",
-      "ownerName": "孙超",
-      "phone": "136-8000-4552",
-      "type": "🐶 犬类",
-      "status": "治疗中",
-      "lastVisit": "2026-03-10 02:58"
-    },
-    {
-      "id": 9,
-      "petName": "蛋黄",
-      "ownerName": "陈勇",
-      "phone": "134-6539-0899",
-      "type": "🦎 异宠",
-      "status": "观察中",
-      "lastVisit": "2026-03-25 02:58"
-    },
-    {
-      "id": 10,
-      "petName": "豆豆 10",
-      "ownerName": "陈娟",
-      "phone": "134-5414-4888",
-      "type": "🐶 犬类",
-      "status": "已康复",
-      "lastVisit": "2026-03-05 02:58"
-    },
-    {
-      "id": 11,
-      "petName": "旺财",
-      "ownerName": "唐燕",
-      "phone": "131-6214-1717",
-      "type": "🐹 仓鼠",
-      "status": "观察中",
-      "lastVisit": "2026-03-07 02:58"
-    },
-    {
-      "id": 12,
-      "petName": "肉包",
-      "ownerName": "黄丽",
-      "phone": "130-7656-9713",
-      "type": "🦎 异宠",
-      "status": "已康复",
-      "lastVisit": "2026-03-24 02:58"
-    },
-    {
-      "id": 13,
-      "petName": "胖虎",
-      "ownerName": "宋杰",
-      "phone": "132-2158-7360",
-      "type": "🐶 犬类",
-      "status": "治疗中",
-      "lastVisit": "2026-03-21 02:58"
-    },
-    {
-      "id": 14,
-      "petName": "旺财 14",
-      "ownerName": "唐静",
-      "phone": "136-5636-5754",
-      "type": "🐶 犬类",
-      "status": "观察中",
-      "lastVisit": "2026-03-17 02:58"
-    },
-    {
-      "id": 15,
-      "petName": "蛋黄",
-      "ownerName": "梁波",
-      "phone": "131-7408-1031",
-      "type": "🐹 仓鼠",
-      "status": "已康复",
-      "lastVisit": "2026-03-03 02:58"
-    },
-    {
-      "id": 16,
-      "petName": "豆豆",
-      "ownerName": "朱伟",
-      "phone": "135-6447-5943",
-      "type": "🕊️ 鸟类",
-      "status": "治疗中",
-      "lastVisit": "2026-03-11 02:58"
-    },
-    {
-      "id": 17,
-      "petName": "小黑 17",
-      "ownerName": "马萍",
-      "phone": "137-4084-0482",
-      "type": "🐹 仓鼠",
-      "status": "治疗中",
-      "lastVisit": "2026-03-17 02:58"
-    },
-    {
-      "id": 18,
-      "petName": "招财 18",
-      "ownerName": "李涛",
-      "phone": "136-5813-7250",
-      "type": "🦎 异宠",
-      "status": "观察中",
-      "lastVisit": "2026-03-26 02:58"
-    },
-    {
-      "id": 19,
-      "petName": "皮皮",
-      "ownerName": "周波",
-      "phone": "137-2178-7156",
-      "type": "🐶 犬类",
-      "status": "观察中",
-      "lastVisit": "2026-03-20 02:58"
-    },
-    {
-      "id": 20,
-      "petName": "煤球",
-      "ownerName": "王建",
-      "phone": "136-4619-5409",
-      "type": "🐹 仓鼠",
-      "status": "观察中",
-      "lastVisit": "2026-03-04 02:58"
-    },
-    {
-      "id": 21,
-      "petName": "多多 21",
-      "ownerName": "刘平",
-      "phone": "135-4238-5587",
-      "type": "🐹 仓鼠",
-      "status": "治疗中",
-      "lastVisit": "2026-03-04 02:58"
-    },
-    {
-      "id": 22,
-      "petName": "奥利奥",
-      "ownerName": "吴强",
-      "phone": "137-7193-2414",
-      "type": "🐶 犬类",
-      "status": "治疗中",
-      "lastVisit": "2026-03-13 02:58"
-    },
-    {
-      "id": 23,
-      "petName": "皮皮",
-      "ownerName": "吴鹏",
-      "phone": "132-4929-8881",
-      "type": "🕊️ 鸟类",
-      "status": "治疗中",
-      "lastVisit": "2026-03-30 02:58"
-    },
-    {
-      "id": 24,
-      "petName": "蛋黄 24",
-      "ownerName": "李静",
-      "phone": "133-3340-6713",
-      "type": "🐱 猫咪",
-      "status": "已康复",
-      "lastVisit": "2026-03-05 02:58"
-    },
-    {
-      "id": 25,
-      "petName": "年糕",
-      "ownerName": "黄凤",
-      "phone": "134-7026-9827",
-      "type": "🕊️ 鸟类",
-      "status": "已康复",
-      "lastVisit": "2026-03-23 02:58"
-    },
-    {
-      "id": 26,
-      "petName": "奶茶",
-      "ownerName": "何凤",
-      "phone": "133-5734-0035",
-      "type": "🐶 犬类",
-      "status": "治疗中",
-      "lastVisit": "2026-03-12 02:58"
-    },
-    {
-      "id": 27,
-      "petName": "肉包",
-      "ownerName": "朱杰",
-      "phone": "130-8624-1693",
-      "type": "🕊️ 鸟类",
-      "status": "已康复",
-      "lastVisit": "2026-03-15 02:58"
-    },
-    {
-      "id": 28,
-      "petName": "果果",
-      "ownerName": "王波",
-      "phone": "137-4221-9906",
-      "type": "🕊️ 鸟类",
-      "status": "已康复",
-      "lastVisit": "2026-03-30 02:58"
-    },
-    {
-      "id": 29,
-      "petName": "小白 29",
-      "ownerName": "黄欣",
-      "phone": "134-5525-6132",
-      "type": "🐶 犬类",
-      "status": "已康复",
-      "lastVisit": "2026-03-03 02:58"
-    },
-    {
-      "id": 30,
-      "petName": "布丁 30",
-      "ownerName": "胡欣",
-      "phone": "138-8710-0104",
-      "type": "🐱 猫咪",
-      "status": "治疗中",
-      "lastVisit": "2026-03-15 02:58"
-    },
-    {
-      "id": 31,
-      "petName": "小白",
-      "ownerName": "宋伟",
-      "phone": "132-8904-1583",
-      "type": "🐱 猫咪",
-      "status": "治疗中",
-      "lastVisit": "2026-03-22 02:58"
-    },
-    {
-      "id": 32,
-      "petName": "大黄",
-      "ownerName": "唐鹏",
-      "phone": "132-1224-1234",
-      "type": "🐱 猫咪",
-      "status": "治疗中",
-      "lastVisit": "2026-03-29 02:58"
-    },
-    {
-      "id": 33,
-      "petName": "奥利奥",
-      "ownerName": "林丽",
-      "phone": "131-8223-3994",
-      "type": "🐶 犬类",
-      "status": "已康复",
-      "lastVisit": "2026-03-28 02:58"
-    },
-    {
-      "id": 34,
-      "petName": "可乐 34",
-      "ownerName": "马超",
-      "phone": "135-2427-8008",
-      "type": "🕊️ 鸟类",
-      "status": "观察中",
-      "lastVisit": "2026-03-23 02:58"
-    },
-    {
-      "id": 35,
-      "petName": "大黄 35",
-      "ownerName": "高鑫",
-      "phone": "137-6738-1245",
-      "type": "🐱 猫咪",
-      "status": "观察中",
-      "lastVisit": "2026-03-20 02:58"
-    },
-    {
-      "id": 36,
-      "petName": "大黄",
-      "ownerName": "何鑫",
-      "phone": "131-9311-9228",
-      "type": "🦎 异宠",
-      "status": "观察中",
-      "lastVisit": "2026-03-29 02:58"
-    },
-    {
-      "id": 37,
-      "petName": "球球",
-      "ownerName": "刘超",
-      "phone": "132-1215-7187",
-      "type": "🐹 仓鼠",
-      "status": "已康复",
-      "lastVisit": "2026-03-13 02:58"
-    },
-    {
-      "id": 38,
-      "petName": "果果",
-      "ownerName": "李勇",
-      "phone": "133-4826-0177",
-      "type": "🐶 犬类",
-      "status": "观察中",
-      "lastVisit": "2026-03-17 02:58"
-    },
-    {
-      "id": 39,
-      "petName": "蛋黄",
-      "ownerName": "徐杰",
-      "phone": "134-6414-6537",
-      "type": "🦎 异宠",
-      "status": "治疗中",
-      "lastVisit": "2026-03-17 02:58"
-    },
-    {
-      "id": 40,
-      "petName": "糯米",
-      "ownerName": "徐兰",
-      "phone": "132-2042-0345",
-      "type": "🐱 猫咪",
-      "status": "已康复",
-      "lastVisit": "2026-03-14 02:58"
-    },
-    {
-      "id": 41,
-      "petName": "豆豆",
-      "ownerName": "郑凤",
-      "phone": "131-4500-0096",
-      "type": "🕊️ 鸟类",
-      "status": "已康复",
-      "lastVisit": "2026-03-11 02:58"
-    },
-    {
-      "id": 42,
-      "petName": "年糕 42",
-      "ownerName": "赵凤",
-      "phone": "130-1255-6756",
-      "type": "🐹 仓鼠",
-      "status": "已康复",
-      "lastVisit": "2026-03-19 02:58"
-    },
-    {
-      "id": 43,
-      "petName": "年糕 43",
-      "ownerName": "朱娟",
-      "phone": "137-3626-6770",
-      "type": "🦎 异宠",
-      "status": "已康复",
-      "lastVisit": "2026-03-11 02:58"
-    },
-    {
-      "id": 44,
-      "petName": "毛毛",
-      "ownerName": "胡浩",
-      "phone": "133-8482-1851",
-      "type": "🐹 仓鼠",
-      "status": "已康复",
-      "lastVisit": "2026-03-28 02:58"
-    },
-    {
-      "id": 45,
-      "petName": "珍珠",
-      "ownerName": "孙军",
-      "phone": "136-9937-5013",
-      "type": "🦎 异宠",
-      "status": "已康复",
-      "lastVisit": "2026-03-06 02:58"
-    },
-    {
-      "id": 46,
-      "petName": "多多",
-      "ownerName": "郑欣",
-      "phone": "132-4985-3343",
-      "type": "🐶 犬类",
-      "status": "已康复",
-      "lastVisit": "2026-03-26 02:58"
-    },
-    {
-      "id": 47,
-      "petName": "珍珠",
-      "ownerName": "罗洋",
-      "phone": "131-3645-9696",
-      "type": "🐱 猫咪",
-      "status": "已康复",
-      "lastVisit": "2026-03-04 02:58"
-    },
-    {
-      "id": 48,
-      "petName": "可乐 48",
-      "ownerName": "周明",
-      "phone": "137-4854-4930",
-      "type": "🐹 仓鼠",
-      "status": "治疗中",
-      "lastVisit": "2026-03-09 02:58"
-    },
-    {
-      "id": 49,
-      "petName": "布丁 49",
-      "ownerName": "唐鑫",
-      "phone": "137-8173-1362",
-      "type": "🦎 异宠",
-      "status": "已康复",
-      "lastVisit": "2026-03-19 02:58"
-    },
-    {
-      "id": 50,
-      "petName": "球球",
-      "ownerName": "张艳",
-      "phone": "132-7497-2728",
-      "type": "🐹 仓鼠",
-      "status": "观察中",
-      "lastVisit": "2026-03-24 02:58"
-    }
-  ],
+  "registration_requests": [],
   "appointments": [
     {
-      "pet": "1",
-      "owner": "1",
-      "doctor": "王强",
-      "reason": "1",
-      "isUrgent": true,
-      "time": "13:33",
+      "id": 1,
+      "time": "08:00",
+      "pet": "系统初始化数据",
+      "owner": "管理员",
+      "doctor": "李医生",
+      "reason": "系统检查",
+      "status": "DONE"
+    },
+    {
+      "id": 1775119707,
+      "pet": "门诊初诊患者",
+      "owner": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "doctor": "1",
+      "reason": "预约挂号 (已完成支付)",
+      "isUrgent": false,
+      "time": "16:34",
       "status": "DONE",
-      "id": 1
-    }
-  ],
-  "doctors": [
-    {
-      "id": 1,
-      "name": "王强",
-      "department": "内科",
-      "title": "主任医师",
-      "avatar": "👨‍⚕️",
-      "rating": 4.9,
-      "status": "出诊中",
-      "experience": "12年"
+      "createdAt": "2026-04-02T08:34:24.840Z"
     },
     {
-      "id": 2,
-      "name": "李明",
-      "department": "外科",
-      "title": "主治医师",
-      "avatar": "👨‍⚕️",
-      "rating": 4.8,
-      "status": "休息",
-      "experience": "8年"
+      "id": 1775119109,
+      "pet": "门诊初诊患者",
+      "owner": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "doctor": "王医生",
+      "reason": "预约挂号 (已完成支付)",
+      "isUrgent": false,
+      "time": "16:37",
+      "status": "DONE",
+      "createdAt": "2026-04-02T08:37:13.277Z"
     },
     {
-      "id": 3,
-      "name": "赵雪",
-      "department": "皮肤科",
-      "title": "副主任医师",
-      "avatar": "👩‍⚕️",
-      "rating": 4.9,
-      "status": "休息",
-      "experience": "10年"
+      "id": 1775119383,
+      "pet": "门诊初诊患者",
+      "owner": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "doctor": "王医生",
+      "reason": "预约挂号 (已完成支付)",
+      "isUrgent": false,
+      "time": "16:37",
+      "status": "DONE",
+      "createdAt": "2026-04-02T08:37:20.618Z"
     },
     {
-      "id": 4,
-      "name": "孙伟",
-      "department": "骨科",
-      "title": "主治医师",
-      "avatar": "👨‍⚕️",
-      "rating": 4.7,
-      "status": "出诊中",
-      "experience": "6年"
+      "id": 1775119372,
+      "pet": "门诊初诊患者",
+      "owner": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "doctor": "王医生",
+      "reason": "预约挂号 (已完成支付)",
+      "isUrgent": false,
+      "time": "16:38",
+      "status": "DONE",
+      "createdAt": "2026-04-02T08:38:24.882Z"
     },
     {
-      "id": 5,
-      "name": "陈娜",
-      "department": "异宠专科",
-      "title": "主治医师",
-      "avatar": "👩‍⚕️",
-      "rating": 5,
-      "status": "出诊中",
-      "experience": "9年"
+      "id": 1775119248,
+      "pet": "门诊初诊患者",
+      "owner": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "doctor": "1",
+      "reason": "预约挂号 (已完成支付)",
+      "isUrgent": false,
+      "time": "16:38",
+      "status": "DONE",
+      "createdAt": "2026-04-02T08:38:31.621Z"
     },
     {
-      "id": 6,
-      "name": "周杰",
-      "department": "牙科",
-      "title": "医师",
-      "avatar": "👨‍⚕️",
-      "rating": 4.6,
-      "status": "休息",
-      "experience": "4年"
+      "id": 1775119510,
+      "pet": "门诊初诊患者",
+      "owner": "移动端预约用户",
+      "ownerPhone": "15520187167",
+      "doctor": "王医生",
+      "reason": "预约挂号 (已完成支付)",
+      "isUrgent": false,
+      "time": "16:39",
+      "status": "DONE",
+      "createdAt": "2026-04-02T08:39:30.477Z"
     },
     {
-      "id": 7,
-      "name": "林峰",
-      "department": "外科",
-      "title": "主任医师",
-      "avatar": "👨‍⚕️",
-      "rating": 4.9,
-      "status": "学术会",
-      "experience": "15年"
+      "id": 1775119472,
+      "pet": "门诊初诊患者",
+      "owner": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "doctor": "王医生",
+      "reason": "预约挂号 (已完成支付)",
+      "isUrgent": false,
+      "time": "16:39",
+      "status": "DONE",
+      "createdAt": "2026-04-02T08:39:45.214Z"
     },
     {
-      "id": 8,
-      "name": "刘婷",
-      "department": "眼科",
-      "title": "主治医师",
-      "avatar": "👩‍⚕️",
-      "rating": 4.8,
-      "status": "学术会",
-      "experience": "7年"
+      "id": 1775119400,
+      "pet": "门诊初诊患者",
+      "owner": "移动端预约用户",
+      "ownerPhone": "15520187167",
+      "doctor": "王医生",
+      "reason": "预约挂号 (已完成支付)",
+      "isUrgent": false,
+      "time": "16:40",
+      "status": "DONE",
+      "createdAt": "2026-04-02T08:40:23.116Z"
     },
     {
-      "id": 9,
-      "name": "黄磊",
-      "department": "内科",
-      "title": "医师",
-      "avatar": "👨‍⚕️",
-      "rating": 4.5,
-      "status": "出诊中",
-      "experience": "3年"
+      "id": 1775119395,
+      "pet": "门诊初诊患者",
+      "owner": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "doctor": "王医生",
+      "reason": "预约挂号 (已完成支付)",
+      "isUrgent": false,
+      "time": "16:40",
+      "status": "DONE",
+      "createdAt": "2026-04-02T08:40:46.232Z"
     },
     {
-      "id": 10,
-      "name": "吴凡",
-      "department": "急诊科",
-      "title": "副主任医师",
-      "avatar": "👨‍⚕️",
-      "rating": 4.9,
-      "status": "急救中",
-      "experience": "11年"
-    }
-  ],
-  "medicines": [
-    {
-      "id": 1,
-      "name": "犬心保 (Heartgard Plus)",
-      "category": "驱虫药",
-      "stock": 196.5,
-      "unit": "盒",
-      "price": 280,
-      "status": "充足"
+      "id": 1775119692,
+      "pet": "门诊初诊患者",
+      "owner": "移动端预约用户",
+      "ownerPhone": "15520187167",
+      "doctor": "王医生",
+      "reason": "预约挂号 (已完成支付)",
+      "isUrgent": false,
+      "time": "16:40",
+      "status": "DONE",
+      "createdAt": "2026-04-02T08:40:56.247Z"
     },
     {
-      "id": 2,
-      "name": "拜宠清 (Drontal Plus)",
-      "category": "驱虫药",
-      "stock": 57.5,
-      "unit": "片",
-      "price": 35,
-      "status": "充足"
+      "id": 1775119679,
+      "pet": "门诊初诊患者",
+      "owner": "移动端预约用户",
+      "ownerPhone": "15520187167",
+      "doctor": "王医生",
+      "reason": "预约挂号 (已完成支付)",
+      "isUrgent": false,
+      "time": "16:44",
+      "status": "DONE",
+      "createdAt": "2026-04-02T08:44:41.164Z"
     },
     {
-      "id": 3,
-      "name": "速诺 (Synulox)",
-      "category": "抗生素",
-      "stock": 45,
-      "unit": "盒",
-      "price": 120,
-      "status": "充足"
+      "id": 1775119842,
+      "pet": "门诊初诊患者",
+      "owner": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "doctor": "王医生",
+      "reason": "预约挂号 (已完成支付)",
+      "isUrgent": false,
+      "time": "16:44",
+      "status": "DONE",
+      "createdAt": "2026-04-02T08:44:47.551Z"
     },
     {
-      "id": 4,
-      "name": "莫比新 (Mobise)",
-      "category": "消炎药",
-      "stock": 58,
-      "unit": "瓶",
-      "price": 180,
-      "status": "充足"
-    },
-    {
-      "id": 5,
-      "name": "狂犬病疫苗 (Rabisin)",
-      "category": "疫苗",
-      "stock": 199,
-      "unit": "支",
-      "price": 80,
-      "status": "充足"
-    },
-    {
-      "id": 6,
-      "name": "妙三多 (Fel-O-Vax)",
-      "category": "疫苗",
-      "stock": 107,
-      "unit": "支",
-      "price": 150,
-      "status": "充足"
-    },
-    {
-      "id": 7,
-      "name": "卫佳捌 (Vanguard Plus 5 L4)",
-      "category": "疫苗",
-      "stock": 88,
-      "unit": "支",
-      "price": 160,
-      "status": "充足"
-    },
-    {
-      "id": 8,
-      "name": "止敏速 (Apoquel)",
-      "category": "抗过敏",
-      "stock": 17.5,
-      "unit": "瓶",
-      "price": 450,
-      "status": "充足"
-    },
-    {
-      "id": 9,
-      "name": "耳漂 (Epi-Otic)",
-      "category": "洗耳液",
-      "stock": 60,
-      "unit": "瓶",
-      "price": 98,
-      "status": "充足"
-    },
-    {
-      "id": 10,
-      "name": "康卫宁 (Convenia)",
-      "category": "长效消炎",
-      "stock": 54.5,
-      "unit": "瓶",
-      "price": 850,
-      "status": "充足"
-    }
-  ],
-  "inpatients": [
-    {
-      "id": 3,
-      "petName": "球球",
-      "type": "🦎 异宠",
-      "owner": "王强",
-      "room": "C-05",
-      "diagnosis": "肠炎",
-      "admissionDate": "2024-03-22",
-      "status": "观察中",
-      "doctorId": 5
-    },
-    {
-      "petName": "1",
-      "type": "🐶 犬类",
-      "owner": "1",
-      "diagnosis": "1",
-      "status": "观察中",
-      "doctorId": 1,
-      "room": "A-72",
-      "admissionDate": "2026-04-01",
-      "id": 4
+      "id": 1775130874,
+      "pet": "门诊初诊患者",
+      "owner": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "doctor": "王医生",
+      "reason": "预约挂号 (已完成支付)",
+      "isUrgent": false,
+      "time": "19:49",
+      "status": "TODO",
+      "createdAt": "2026-04-02T11:49:18.492Z"
     }
   ],
   "users": [
@@ -687,82 +173,291 @@
       "username": "admin",
       "password": "123",
       "name": "超级管理员",
-      "role": "系统管理员 (全权限)"
+      "role": "系统管理员"
     },
     {
       "id": 2,
       "username": "doctor1",
       "password": "123",
       "name": "李时珍",
-      "role": "主治医生 (处方权限)"
+      "role": "主治医生"
     },
     {
-      "id": 3,
-      "username": "front1",
+      "username": "admin1",
       "password": "123",
-      "name": "小张",
-      "role": "前台导诊 (挂号权限)"
+      "name": "123",
+      "role": "前台导诊",
+      "id": 3
+    }
+  ],
+  "records": [
+    {
+      "petName": "1",
+      "ownerName": "1",
+      "phone": "15520187167",
+      "type": "🐶 犬类",
+      "status": "观察中",
+      "lastVisit": "2026/4/2 11:15:4",
+      "id": 1
     },
     {
-      "id": 4,
-      "username": "nurse1",
-      "password": "123",
-      "name": "王护士",
-      "role": "护士 (护理记录权限)"
+      "petName": "111",
+      "ownerName": "1",
+      "phone": "15520187167",
+      "type": "🐶 犬类",
+      "status": "已康复",
+      "lastVisit": "2026/4/2 14:48:5",
+      "id": 2
+    },
+    {
+      "petName": "222",
+      "ownerName": "222",
+      "phone": "15520177167",
+      "type": "🦎 异宠",
+      "status": "观察中",
+      "lastVisit": "2026/4/2 15:42:3",
+      "id": 3
+    },
+    {
+      "petName": "👀",
+      "ownerName": "o",
+      "phone": "15520177167",
+      "type": "🕊️ 鸟类",
+      "status": "观察中",
+      "lastVisit": "2026/4/2 19:49:5",
+      "id": 4
+    },
+    {
+      "petName": "//",
+      "ownerName": "ll",
+      "phone": "15520187167",
+      "type": "🐶 犬类",
+      "status": "观察中",
+      "lastVisit": "2026/4/3 11:45:5",
+      "id": 5
     }
   ],
   "medical_records": [
     {
-      "petId": 3,
-      "petName": "小黑",
-      "ownerName": "王欣",
-      "createdAt": "2026-04-01T06:24:20.904Z",
-      "subjective": "",
-      "objective": "",
-      "assessment": "",
-      "plan": "",
-      "prescriptions": [],
+      "petId": 1,
+      "petName": "1",
+      "ownerName": "1",
+      "ownerPhone": "15520187167",
+      "visitNo": 1,
+      "createdAt": "2026-04-02T03:16:14.704Z",
+      "subjective": "1",
+      "objective": "1",
+      "assessment": "1",
+      "plan": "1",
+      "prescriptions": [
+        {
+          "id": 1775099770454.1775,
+          "med": {
+            "id": 1,
+            "name": "犬心保",
+            "category": "驱虫药",
+            "stock": 100,
+            "unit": "盒",
+            "price": 280,
+            "status": "充足"
+          },
+          "amount": 7.5
+        }
+      ],
       "weight": 5,
       "conflictWarning": null,
-      "id": 6
-    },
-    {
-      "petId": 3,
-      "petName": "小黑",
-      "ownerName": "王欣",
-      "createdAt": "2026-04-01T06:24:30.929Z",
-      "subjective": "",
-      "objective": "",
-      "assessment": "",
-      "plan": "",
-      "prescriptions": [],
-      "weight": 5,
-      "conflictWarning": null,
-      "id": 7
+      "id": 1
     },
     {
       "petId": 1,
-      "petName": "糯米",
-      "ownerName": "唐鹏",
+      "petName": "1",
+      "ownerName": "1",
+      "ownerPhone": "15520187167",
+      "visitNo": 2,
+      "createdAt": "2026-04-02T04:20:50.490Z",
+      "subjective": "",
+      "objective": "",
+      "assessment": "",
+      "plan": "",
+      "prescriptions": [],
+      "weight": 5,
+      "conflictWarning": null,
+      "id": 2
+    },
+    {
+      "petId": 2,
+      "petName": "111",
+      "ownerName": "1",
+      "ownerPhone": "15520187167",
       "visitNo": 1,
-      "createdAt": "2026-04-01T06:50:39.877Z",
+      "createdAt": "2026-04-02T06:51:26.441Z",
       "subjective": "",
       "objective": "",
       "assessment": "",
       "plan": "",
       "prescriptions": [
         {
-          "id": 1775026236109.1245,
+          "id": 1775112683031.8025,
           "med": {
-            "id": 6,
-            "name": "妙三多 (Fel-O-Vax)",
-            "category": "疫苗",
-            "stock": 110,
-            "unit": "支",
-            "price": 150,
+            "id": 1,
+            "name": "犬心保",
+            "category": "驱虫药",
+            "stock": 92.5,
+            "unit": "盒",
+            "price": 280,
             "status": "充足"
           },
-          "amount": 1
+          "amount": 7.5
+        }
+      ],
+      "weight": 5,
+      "conflictWarning": null,
+      "id": 3
+    },
+    {
+      "petId": 1,
+      "petName": "1",
+      "ownerName": "1",
+      "ownerPhone": "15520187167",
+      "visitNo": 3,
+      "createdAt": "2026-04-02T07:09:52.366Z",
+      "subjective": "1",
+      "objective": "1",
+      "assessment": "1",
+      "plan": "1",
+      "prescriptions": [
+        {
+          "id": 1775113789724.2861,
+          "med": {
+            "id": 1,
+            "name": "犬心保",
+            "category": "驱虫药",
+            "stock": 85,
+            "unit": "盒",
+            "price": 280,
+            "status": "充足"
+          },
+          "amount": 7.5
+        }
+      ],
+      "weight": 5,
+      "conflictWarning": null,
+      "id": 4
+    },
+    {
+      "petId": 1,
+      "petName": "1",
+      "ownerName": "1",
+      "ownerPhone": "15520187167",
+      "visitNo": 4,
+      "createdAt": "2026-04-02T07:27:40.995Z",
+      "subjective": "`",
+      "objective": "`",
+      "assessment": "`",
+      "plan": "`",
+      "prescriptions": [
+        {
+          "id": 1775114858538.533,
+          "med": {
+            "id": 1,
+            "name": "犬心保",
+            "category": "驱虫药",
+            "stock": 77.5,
+            "unit": "盒",
+            "price": 280,
+            "status": "充足"
+          },
+          "amount": 7.5
+        }
+      ],
+      "weight": 5,
+      "conflictWarning": null,
+      "id": 5
+    },
+    {
+      "petId": 1,
+      "petName": "1",
+      "ownerName": "1",
+      "ownerPhone": "15520187167",
+      "visitNo": 5,
+      "createdAt": "2026-04-02T07:39:46.996Z",
+      "subjective": "1",
+      "objective": "",
+      "assessment": "",
+      "plan": "",
+      "prescriptions": [
+        {
+          "id": 1775115583626.1,
+          "med": {
+            "id": 1,
+            "name": "犬心保",
+            "category": "驱虫药",
+            "stock": 70,
+            "unit": "盒",
+            "price": 280,
+            "status": "充足"
+          },
+          "amount": 7.5
+        }
+      ],
+      "weight": 5,
+      "conflictWarning": null,
+      "id": 6
+    },
+    {
+      "petId": 3,
+      "petName": "222",
+      "ownerName": "222",
+      "ownerPhone": "15520177167",
+      "visitNo": 1,
+      "createdAt": "2026-04-02T07:42:52.445Z",
+      "subjective": "2",
+      "objective": "",
+      "assessment": "",
+      "plan": "",
+      "prescriptions": [
+        {
+          "id": 1775115768731.3408,
+          "med": {
+            "id": 1,
+            "name": "犬心保",
+            "category": "驱虫药",
+            "stock": 62.5,
+            "unit": "盒",
+            "price": 280,
+            "status": "充足"
+          },
+          "amount": 7.5
+        }
+      ],
+      "weight": 5,
+      "conflictWarning": null,
+      "id": 7
+    },
+    {
+      "petId": 1,
+      "petName": "1",
+      "ownerName": "1",
+      "ownerPhone": "15520187167",
+      "visitNo": 6,
+      "createdAt": "2026-04-02T12:18:21.963Z",
+      "subjective": "11",
+      "objective": "",
+      "assessment": "",
+      "plan": "",
+      "prescriptions": [
+        {
+          "id": 1775132300204.5874,
+          "med": {
+            "id": 1,
+            "name": "犬心保",
+            "category": "驱虫药",
+            "stock": 55,
+            "unit": "盒",
+            "price": 280,
+            "status": "充足"
+          },
+          "amount": 7.5
         }
       ],
       "weight": 5,
@@ -770,25 +465,26 @@
       "id": 8
     },
     {
-      "petId": 1,
-      "petName": "糯米",
-      "ownerName": "唐鹏",
-      "visitNo": 2,
-      "createdAt": "2026-04-01T06:50:54.728Z",
+      "petId": 4,
+      "petName": "👀",
+      "ownerName": "o",
+      "ownerPhone": "15520177167",
+      "visitNo": 1,
+      "createdAt": "2026-04-02T12:18:44.444Z",
       "subjective": "",
       "objective": "",
       "assessment": "",
       "plan": "",
       "prescriptions": [
         {
-          "id": 1775026250436.591,
+          "id": 1775132320936.0103,
           "med": {
-            "id": 1,
-            "name": "犬心保 (Heartgard Plus)",
+            "id": 2,
+            "name": "拜宠清",
             "category": "驱虫药",
-            "stock": 220,
-            "unit": "盒",
-            "price": 280,
+            "stock": 50,
+            "unit": "片",
+            "price": 35,
             "status": "充足"
           },
           "amount": 7.5
@@ -800,39 +496,55 @@
     },
     {
       "petId": 1,
-      "petName": "糯米",
-      "ownerName": "唐鹏",
-      "visitNo": 3,
-      "createdAt": "2026-04-01T06:51:53.551Z",
-      "subjective": "",
-      "objective": "",
-      "assessment": "",
-      "plan": "",
-      "prescriptions": [],
-      "weight": 5,
-      "conflictWarning": null,
-      "id": 10
-    },
-    {
-      "petId": 1,
-      "petName": "糯米",
-      "ownerName": "唐鹏",
-      "visitNo": 4,
-      "createdAt": "2026-04-01T06:53:39.993Z",
+      "petName": "1",
+      "ownerName": "1",
+      "ownerPhone": "15520187167",
+      "visitNo": 7,
+      "createdAt": "2026-04-02T12:21:29.262Z",
       "subjective": "",
       "objective": "",
       "assessment": "",
       "plan": "",
       "prescriptions": [
         {
-          "id": 1775026414159.0408,
+          "id": 1775132486430.6758,
           "med": {
             "id": 1,
-            "name": "犬心保 (Heartgard Plus)",
+            "name": "犬心保",
             "category": "驱虫药",
-            "stock": 220,
+            "stock": 47.5,
             "unit": "盒",
             "price": 280,
+            "status": "充足"
+          },
+          "amount": 7.5
+        }
+      ],
+      "weight": 5,
+      "conflictWarning": null,
+      "id": 10
+    },
+    {
+      "petId": 4,
+      "petName": "👀",
+      "ownerName": "o",
+      "ownerPhone": "15520177167",
+      "visitNo": 2,
+      "createdAt": "2026-04-02T12:22:16.842Z",
+      "subjective": "",
+      "objective": "",
+      "assessment": "",
+      "plan": "",
+      "prescriptions": [
+        {
+          "id": 1775132534379.2507,
+          "med": {
+            "id": 2,
+            "name": "拜宠清",
+            "category": "驱虫药",
+            "stock": 42.5,
+            "unit": "片",
+            "price": 35,
             "status": "充足"
           },
           "amount": 7.5
@@ -844,40 +556,28 @@
     },
     {
       "petId": 1,
-      "petName": "糯米",
-      "ownerName": "唐鹏",
-      "visitNo": 5,
-      "createdAt": "2026-04-01T06:55:46.433Z",
+      "petName": "1",
+      "ownerName": "1",
+      "ownerPhone": "15520187167",
+      "visitNo": 8,
+      "createdAt": "2026-04-02T12:24:54.294Z",
       "subjective": "",
       "objective": "",
       "assessment": "",
       "plan": "",
       "prescriptions": [
         {
-          "id": 1775026540658.2607,
+          "id": 1775132692654.8062,
           "med": {
-            "id": 2,
-            "name": "拜宠清 (Drontal Plus)",
+            "id": 1,
+            "name": "犬心保",
             "category": "驱虫药",
-            "stock": 15,
-            "unit": "片",
-            "price": 35,
-            "status": "紧缺"
-          },
-          "amount": 7.5
-        },
-        {
-          "id": 1775026542209.0771,
-          "med": {
-            "id": 7,
-            "name": "卫佳捌 (Vanguard Plus 5 L4)",
-            "category": "疫苗",
-            "stock": 90,
-            "unit": "支",
-            "price": 160,
+            "stock": 40,
+            "unit": "盒",
+            "price": 280,
             "status": "充足"
           },
-          "amount": 1
+          "amount": 7.5
         }
       ],
       "weight": 5,
@@ -885,56 +585,59 @@
       "id": 12
     },
     {
-      "petId": 2,
-      "petName": "珍珠",
-      "ownerName": "张欣",
-      "visitNo": 1,
-      "createdAt": "2026-04-01T07:34:23.523Z",
+      "petId": 1,
+      "petName": "1",
+      "ownerName": "1",
+      "ownerPhone": "15520187167",
+      "visitNo": 9,
+      "createdAt": "2026-04-02T12:47:06.825Z",
       "subjective": "",
       "objective": "",
       "assessment": "",
       "plan": "",
-      "prescriptions": [],
+      "prescriptions": [
+        {
+          "id": 1775134023267.6516,
+          "med": {
+            "id": 7,
+            "name": "维克洁齿水",
+            "category": "口腔护理",
+            "stock": 24,
+            "unit": "瓶",
+            "price": 115,
+            "status": "充足"
+          },
+          "amount": 7.5
+        }
+      ],
       "weight": 5,
       "conflictWarning": null,
       "id": 13
     },
     {
-      "petId": 1,
-      "petName": "糯米",
-      "ownerName": "唐鹏",
-      "visitNo": 6,
-      "createdAt": "2026-04-01T08:52:23.351Z",
-      "subjective": "1",
-      "objective": "1",
-      "assessment": "1",
-      "plan": "1",
+      "petId": 4,
+      "petName": "👀",
+      "ownerName": "o",
+      "ownerPhone": "15520177167",
+      "visitNo": 3,
+      "createdAt": "2026-04-02T12:59:00.939Z",
+      "subjective": "",
+      "objective": "",
+      "assessment": "",
+      "plan": "",
       "prescriptions": [
         {
-          "id": 1775033528174.8337,
-          "med": {
-            "id": 1,
-            "name": "犬心保 (Heartgard Plus)",
-            "category": "驱虫药",
-            "stock": 212.5,
-            "unit": "盒",
-            "price": 280,
-            "status": "充足"
-          },
-          "amount": 1
-        },
-        {
-          "id": 1775033537114.3474,
+          "id": 1775134738982.2732,
           "med": {
             "id": 6,
-            "name": "妙三多 (Fel-O-Vax)",
-            "category": "疫苗",
-            "stock": 110,
-            "unit": "支",
-            "price": 150,
+            "name": "镁威口服液 (肠胃)",
+            "category": "肠胃用药",
+            "stock": 50,
+            "unit": "瓶",
+            "price": 95,
             "status": "充足"
           },
-          "amount": 1
+          "amount": 7.5
         }
       ],
       "weight": 5,
@@ -942,38 +645,26 @@
       "id": 14
     },
     {
-      "petId": 1,
-      "petName": "糯米",
-      "ownerName": "唐鹏",
-      "visitNo": 7,
-      "createdAt": "2026-04-01T08:54:52.059Z",
+      "petId": 4,
+      "petName": "👀",
+      "ownerName": "o",
+      "ownerPhone": "15520177167",
+      "visitNo": 4,
+      "createdAt": "2026-04-02T13:02:27.000Z",
       "subjective": "",
       "objective": "",
       "assessment": "",
       "plan": "",
       "prescriptions": [
         {
-          "id": 1775033680383.4382,
+          "id": 1775134945524.6626,
           "med": {
-            "id": 6,
-            "name": "妙三多 (Fel-O-Vax)",
-            "category": "疫苗",
-            "stock": 109,
-            "unit": "支",
-            "price": 150,
-            "status": "充足"
-          },
-          "amount": 1
-        },
-        {
-          "id": 1775033687897.9617,
-          "med": {
-            "id": 1,
-            "name": "犬心保 (Heartgard Plus)",
-            "category": "驱虫药",
-            "stock": 211.5,
-            "unit": "盒",
-            "price": 280,
+            "id": 8,
+            "name": "发育宝 (钙磷粉)",
+            "category": "营养补给",
+            "stock": 80,
+            "unit": "罐",
+            "price": 88,
             "status": "充足"
           },
           "amount": 7.5
@@ -982,185 +673,12 @@
       "weight": 5,
       "conflictWarning": null,
       "id": 15
-    },
-    {
-      "petId": 1,
-      "petName": "糯米",
-      "ownerName": "唐鹏",
-      "visitNo": 8,
-      "createdAt": "2026-04-01T08:59:06.642Z",
-      "subjective": "1",
-      "objective": "1",
-      "assessment": "1",
-      "plan": "1111111111111",
-      "prescriptions": [
-        {
-          "id": 1775033942850.6833,
-          "med": {
-            "id": 5,
-            "name": "狂犬病疫苗 (Rabisin)",
-            "category": "疫苗",
-            "stock": 200,
-            "unit": "支",
-            "price": 80,
-            "status": "充足"
-          },
-          "amount": 1
-        }
-      ],
-      "weight": 5,
-      "conflictWarning": null,
-      "id": 16
-    },
-    {
-      "petId": 1,
-      "petName": "糯米",
-      "ownerName": "唐鹏",
-      "visitNo": 9,
-      "createdAt": "2026-04-01T09:23:44.589Z",
-      "subjective": "1",
-      "objective": "111",
-      "assessment": "111",
-      "plan": "",
-      "prescriptions": [
-        {
-          "id": 1775035396850.0513,
-          "med": {
-            "id": 1,
-            "name": "犬心保 (Heartgard Plus)",
-            "category": "驱虫药",
-            "stock": 204,
-            "unit": "盒",
-            "price": 280,
-            "status": "充足"
-          },
-          "amount": 7.5
-        },
-        {
-          "id": 1775035398193.3271,
-          "med": {
-            "id": 6,
-            "name": "妙三多 (Fel-O-Vax)",
-            "category": "疫苗",
-            "stock": 108,
-            "unit": "支",
-            "price": 150,
-            "status": "充足"
-          },
-          "amount": 1
-        },
-        {
-          "id": 1775035399167.29,
-          "med": {
-            "id": 7,
-            "name": "卫佳捌 (Vanguard Plus 5 L4)",
-            "category": "疫苗",
-            "stock": 89,
-            "unit": "支",
-            "price": 160,
-            "status": "充足"
-          },
-          "amount": 1
-        },
-        {
-          "id": 1775035400443.6072,
-          "med": {
-            "id": 8,
-            "name": "止敏速 (Apoquel)",
-            "category": "抗过敏",
-            "stock": 25,
-            "unit": "瓶",
-            "price": 450,
-            "status": "充足"
-          },
-          "amount": 7.5
-        },
-        {
-          "id": 1775035404298.8015,
-          "med": {
-            "id": 6,
-            "name": "妙三多 (Fel-O-Vax)",
-            "category": "疫苗",
-            "stock": 108,
-            "unit": "支",
-            "price": 150,
-            "status": "充足"
-          },
-          "amount": 1
-        },
-        {
-          "id": 1775035407992.7205,
-          "med": {
-            "id": 10,
-            "name": "康卫宁 (Convenia)",
-            "category": "长效消炎",
-            "stock": 62,
-            "unit": "瓶",
-            "price": 850,
-            "status": "充足"
-          },
-          "amount": 7.5
-        },
-        {
-          "id": 1775035415795.7314,
-          "med": {
-            "id": 7,
-            "name": "卫佳捌 (Vanguard Plus 5 L4)",
-            "category": "疫苗",
-            "stock": 89,
-            "unit": "支",
-            "price": 160,
-            "status": "充足"
-          },
-          "amount": 1
-        }
-      ],
-      "weight": 5,
-      "conflictWarning": null,
-      "id": 17
     }
   ],
-  "lab_results": [
-    {
-      "id": 1,
-      "petId": 1,
-      "testName": "犬常规 CBC 全血计数",
-      "date": "2026-04-01",
-      "results": [
-        {
-          "item": "WBC",
-          "value": 14.2,
-          "unit": "10^9/L",
-          "ref": "6.0-17.0",
-          "status": "normal"
-        },
-        {
-          "item": "RBC",
-          "value": 8.8,
-          "unit": "10^12/L",
-          "ref": "5.5-8.5",
-          "status": "high"
-        }
-      ]
-    },
+  "diagnostic_tests": [
     {
       "testName": "常规全血细胞计数 (CBC)",
-      "date": "2026-04-01",
-      "results": [
-        {
-          "item": "WBC",
-          "value": "1",
-          "unit": "10^9/L",
-          "ref": "6.0-17.0",
-          "status": "normal"
-        }
-      ],
-      "petId": 1,
-      "id": 2
-    },
-    {
-      "testName": "常规全血细胞计数 (CBC)",
-      "date": "2026-04-01",
+      "date": "2026-04-02",
       "results": [
         {
           "item": "WBC",
@@ -1170,43 +688,1219 @@
           "status": "normal"
         }
       ],
-      "petId": 5,
-      "id": 3
+      "petId": 1,
+      "id": 1
     }
   ],
   "imaging_studies": [
     {
+      "type": "数字化 X 线检查 (DR)",
+      "view": "腹腔正位",
+      "date": "2026-04-02",
+      "findings": "影像表现良好，实质未见明显渗出。",
+      "images": [
+        "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format"
+      ],
+      "petId": 1,
+      "id": 1
+    }
+  ],
+  "doctors": [
+    {
       "id": 1,
-      "petId": 1,
-      "type": "腹部超声考试 (PACS)",
-      "date": "2026-04-01",
-      "view": "腹腔全扫",
-      "findings": "肝脏实质未见明显占位，胆囊壁清晰。",
-      "images": [
-        "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format"
-      ]
+      "name": "王医生",
+      "department": "全科",
+      "title": "主任医师",
+      "avatar": "👨‍⚕️",
+      "rating": 5,
+      "status": "出诊中",
+      "experience": "12年",
+      "fee": 1
     },
     {
-      "type": "数字化 X 线检查 (DR)",
-      "view": "腹腔正位",
-      "date": "2026-04-01",
-      "findings": "影像表现良好，实质未见明显渗出。",
-      "images": [
-        "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format"
-      ],
-      "petId": 1,
-      "id": 2
+      "id": 2,
+      "name": "李护士",
+      "department": "护理部",
+      "title": "高级护理",
+      "avatar": "👩‍⚕️",
+      "rating": 4.9,
+      "status": "忙碌",
+      "experience": "8年",
+      "fee": 1
     },
     {
-      "type": "数字化 X 线检查 (DR)",
-      "view": "腹腔正位",
-      "date": "2026-04-01",
-      "findings": "影像表现良好，实质未见明显渗出。",
-      "images": [
-        "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format"
+      "name": "1",
+      "department": "内科",
+      "title": "医师",
+      "avatar": "👨‍⚕️",
+      "rating": 5,
+      "status": "出诊中",
+      "experience": "1年",
+      "id": 3,
+      "fee": 1
+    }
+  ],
+  "medicines": [
+    {
+      "id": 1,
+      "name": "犬心保 (M号)",
+      "category": "驱虫药",
+      "stock": 24.5,
+      "unit": "盒",
+      "price": 280,
+      "status": "充足"
+    },
+    {
+      "id": 2,
+      "name": "拜宠清 (全犬种)",
+      "category": "驱虫药",
+      "stock": 35,
+      "unit": "片",
+      "price": 35,
+      "status": "充足"
+    },
+    {
+      "id": 3,
+      "name": "速诺 (抗生素)",
+      "category": "处方药",
+      "stock": 86,
+      "unit": "板",
+      "price": 85,
+      "status": "充足"
+    },
+    {
+      "id": 4,
+      "name": "康卫宁 (进口针剂)",
+      "category": "处方药",
+      "stock": 0,
+      "unit": "支",
+      "price": 450,
+      "status": "紧缺"
+    },
+    {
+      "id": 5,
+      "name": "眼康 (护眼液)",
+      "category": "五官护理",
+      "stock": 44,
+      "unit": "瓶",
+      "price": 128,
+      "status": "充足"
+    },
+    {
+      "id": 6,
+      "name": "镁威口服液 (肠胃)",
+      "category": "肠胃用药",
+      "stock": 42.5,
+      "unit": "瓶",
+      "price": 95,
+      "status": "充足"
+    },
+    {
+      "id": 7,
+      "name": "维克洁齿水",
+      "category": "口腔护理",
+      "stock": 16.5,
+      "unit": "瓶",
+      "price": 115,
+      "status": "充足"
+    },
+    {
+      "id": 8,
+      "name": "发育宝 (钙磷粉)",
+      "category": "营养补给",
+      "stock": 72.5,
+      "unit": "罐",
+      "price": 88,
+      "status": "充足"
+    },
+    {
+      "id": 9,
+      "name": "希尔思处方粮 (i/d)",
+      "category": "处方粮",
+      "stock": 15,
+      "unit": "袋",
+      "price": 360,
+      "status": "充足"
+    },
+    {
+      "id": 10,
+      "name": "关节宝 (强健骨骼)",
+      "category": "关节健康",
+      "stock": 40,
+      "unit": "瓶",
+      "price": 245,
+      "status": "充足"
+    }
+  ],
+  "hospitals": [
+    {
+      "id": 1,
+      "name": "深圳中心院",
+      "address": "深圳市福田区中心路 101 号"
+    },
+    {
+      "id": 2,
+      "name": "南山分院",
+      "address": "深圳市南山区科技园北"
+    }
+  ],
+  "inpatients": [],
+  "payments": [
+    {
+      "id": "BILL-1775115601959-912",
+      "petName": "1",
+      "ownerName": "1",
+      "ownerPhone": "15520187167",
+      "items": [
+        {
+          "name": "犬心保",
+          "price": 280,
+          "amount": 7.5,
+          "unit": "盒"
+        }
       ],
-      "petId": 5,
-      "id": 3
+      "total": 2250,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T07:40:01.959Z",
+      "status": "settled",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "BILL-1775115781263-546",
+      "petName": "222",
+      "ownerName": "222",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "犬心保",
+          "price": 280,
+          "amount": 7.5,
+          "unit": "盒"
+        }
+      ],
+      "total": 2250,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T07:43:01.263Z",
+      "status": "settled",
+      "paymentMethod": "card"
+    },
+    {
+      "id": "REG-1775116537757-91",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 50,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 50,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T07:55:37.757Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775117187906-26",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 50,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 50,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:06:27.906Z",
+      "status": "cancelled",
+      "billType": "registration",
+      "docName": "王医生"
+    },
+    {
+      "id": "REG-1775117199347-74",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 50,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 50,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:06:39.347Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "alipay"
+    },
+    {
+      "id": "REG-1775118059856-65",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 50,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 50,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:20:59.856Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775118336998-59",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:25:36.998Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775118496591-89",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:28:16.591Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775118594309-39",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:29:54.309Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775118606450-54",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:30:06.450Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775118623300-83",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:30:23.300Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775118694633-96",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:31:34.633Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775118762418-83",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "1 (内科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:32:42.418Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "1",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775118798056-28",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "1 (内科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:33:18.056Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "1",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775118862812-25",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "1 (内科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:34:22.812Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "1",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775119030896-88",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:37:10.896Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775119038730-78",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:37:18.730Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775119102653-36",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:38:22.653Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775119109299-54",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "1 (内科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:38:29.299Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "1",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775119168401-70",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520187167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:39:28.401Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775119183040-85",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:39:43.040Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775119216810-59",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:40:16.810Z",
+      "status": "cancelled",
+      "billType": "registration",
+      "docName": "王医生"
+    },
+    {
+      "id": "REG-1775119221531-42",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520187167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:40:21.531Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775119243196-36",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:40:43.196Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775119254362-13",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520187167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:40:54.362Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775119479142-60",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520187167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:44:39.142Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775119485290-90",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T08:44:45.290Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REG-1775130556591-46",
+      "petName": "门诊初诊患者",
+      "ownerName": "移动端预约用户",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "王医生 (全科) 专属挂号费",
+          "price": 1,
+          "amount": 1,
+          "unit": "次"
+        }
+      ],
+      "total": 1,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T11:49:16.591Z",
+      "status": "settled",
+      "billType": "registration",
+      "docName": "王医生",
+      "paymentMethod": "wechat"
+    },
+    {
+      "ownerPhone": "15520177167",
+      "amount": "85.00",
+      "status": "settled",
+      "type": "药品采购",
+      "date": "2026/4/2 19:57:55",
+      "items": 1,
+      "id": "yBcLETz",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "DRUG-1775131226946",
+      "ownerPhone": "15520177167",
+      "total": 170,
+      "status": "settled",
+      "type": "药品采购",
+      "billType": "pharmacy",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:00:26.946Z",
+      "items": 2,
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "DRUG-1775131343373",
+      "ownerPhone": "15520177167",
+      "total": 230,
+      "status": "settled",
+      "type": "药品采购",
+      "billType": "pharmacy",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:02:23.373Z",
+      "items": 2,
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "DRUG-1775132285664",
+      "ownerPhone": "15520177167",
+      "total": 314,
+      "status": "settled",
+      "type": "药品采购",
+      "billType": "pharmacy",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:18:05.664Z",
+      "items": 4,
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "BILL-1775132333191-636",
+      "petName": "👀",
+      "ownerName": "o",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "拜宠清",
+          "price": 35,
+          "amount": 7.5,
+          "unit": "片"
+        }
+      ],
+      "total": 412.5,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:18:53.191Z",
+      "status": "settled",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "BILL-1775132497984-999",
+      "petName": "1",
+      "ownerName": "1",
+      "ownerPhone": "15520187167",
+      "items": [
+        {
+          "name": "犬心保",
+          "price": 280,
+          "amount": 7.5,
+          "unit": "盒"
+        }
+      ],
+      "total": 2250,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:21:37.984Z",
+      "status": "settled",
+      "paymentMethod": "柜台代付",
+      "settleDate": "2026-04-02T12:25:07.143Z"
+    },
+    {
+      "id": "BILL-1775132546564-266",
+      "petName": "👀",
+      "ownerName": "o",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "拜宠清",
+          "price": 35,
+          "amount": 7.5,
+          "unit": "片"
+        }
+      ],
+      "total": 412.5,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:22:26.564Z",
+      "status": "settled",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "DRUG-1775133246681",
+      "ownerPhone": "15520177167",
+      "total": 170,
+      "status": "settled",
+      "type": "药品采购",
+      "billType": "pharmacy",
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:34:06.681Z",
+      "items": 2,
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "BILL-1775134030811-495",
+      "petName": "1",
+      "ownerName": "1",
+      "ownerPhone": "15520187167",
+      "items": [
+        {
+          "name": "维克洁齿水",
+          "price": 115,
+          "amount": 7.5,
+          "unit": "瓶"
+        }
+      ],
+      "total": 1012.5,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:47:10.811Z",
+      "status": "settled",
+      "paymentMethod": "柜台代付",
+      "settleDate": "2026-04-02T12:53:18.249Z"
+    },
+    {
+      "id": "BILL-1775134544507-926",
+      "petName": "1",
+      "ownerName": "1",
+      "ownerPhone": "15520187167",
+      "items": [
+        {
+          "name": "维克洁齿水",
+          "price": 115,
+          "amount": 7.5,
+          "unit": "瓶"
+        }
+      ],
+      "total": 1012.5,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:55:44.507Z",
+      "status": "settled",
+      "paymentMethod": "柜台代付",
+      "settleDate": "2026-04-03T00:27:15.181Z"
+    },
+    {
+      "id": "BILL-1775134572439-357",
+      "petName": "👀",
+      "ownerName": "o",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "拜宠清",
+          "price": 35,
+          "amount": 7.5,
+          "unit": "片"
+        }
+      ],
+      "total": 412.5,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:56:12.439Z",
+      "status": "settled",
+      "paymentMethod": "alipay"
+    },
+    {
+      "id": "BILL-1775134758321-490",
+      "petName": "👀",
+      "ownerName": "o",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "镁威口服液 (肠胃)",
+          "price": 95,
+          "amount": 7.5,
+          "unit": "瓶"
+        }
+      ],
+      "total": 862.5,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T12:59:18.321Z",
+      "status": "settled",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "BILL-1775134962767-190",
+      "petName": "👀",
+      "ownerName": "o",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "发育宝 (钙磷粉)",
+          "price": 88,
+          "amount": 7.5,
+          "unit": "罐"
+        }
+      ],
+      "total": 810,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T13:02:42.767Z",
+      "status": "settled",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "BILL-1775135566407-279",
+      "petName": "👀",
+      "ownerName": "o",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "发育宝 (钙磷粉)",
+          "price": 88,
+          "amount": 7.5,
+          "unit": "罐"
+        }
+      ],
+      "total": 810,
+      "date": "2026-04-02",
+      "createdAt": "2026-04-02T13:12:46.407Z",
+      "status": "settled",
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "REDEEM-1775175202846",
+      "petName": "宠物主人",
+      "ownerName": "宠物主人",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "速诺 (抗生素)",
+          "price": 85,
+          "amount": 1,
+          "unit": "板"
+        }
+      ],
+      "total": -1700,
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T00:13:22.846Z",
+      "status": "settled",
+      "billType": "redemption",
+      "paymentMethod": "points"
+    },
+    {
+      "id": "DRUG-1775175668602",
+      "ownerPhone": "15520177167",
+      "total": 340,
+      "status": "settled",
+      "type": "药品采购",
+      "billType": "pharmacy",
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T00:21:08.602Z",
+      "items": 4,
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "DRUG-1775175991985",
+      "ownerPhone": "15520177167",
+      "total": 474,
+      "status": "settled",
+      "type": "药品采购",
+      "billType": "pharmacy",
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T00:26:31.985Z",
+      "items": [
+        {
+          "name": "博来恩 (Broadline)",
+          "price": 158,
+          "amount": 3,
+          "unit": "件"
+        }
+      ],
+      "paymentMethod": "balance"
+    },
+    {
+      "id": "DRUG-1775176097126",
+      "ownerPhone": "15520177167",
+      "total": 790,
+      "status": "settled",
+      "type": "药品采购",
+      "billType": "pharmacy",
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T00:28:17.126Z",
+      "items": [
+        {
+          "name": "博来恩 (Broadline)",
+          "price": 158,
+          "amount": 5,
+          "unit": "件"
+        }
+      ],
+      "paymentMethod": "balance"
+    },
+    {
+      "id": "DRUG-1775176852498",
+      "ownerPhone": "15520177167",
+      "total": 495,
+      "status": "settled",
+      "type": "药品采购",
+      "billType": "pharmacy",
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T00:40:52.499Z",
+      "items": [
+        {
+          "name": "阿莫西林克拉维酸钾",
+          "price": 45,
+          "amount": 11,
+          "unit": "件"
+        }
+      ],
+      "paymentMethod": "alipay"
+    },
+    {
+      "id": "REDEEM-1775180899472",
+      "petName": "宠物主人",
+      "ownerName": "宠物主人",
+      "ownerPhone": "15520177167",
+      "items": [
+        {
+          "name": "眼康 (护眼液)",
+          "price": 128,
+          "amount": 1,
+          "unit": "瓶"
+        }
+      ],
+      "total": -2560,
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T01:48:19.472Z",
+      "status": "settled",
+      "billType": "redemption",
+      "paymentMethod": "points"
+    },
+    {
+      "id": "DRUG-1775180906203",
+      "ownerPhone": "15520177167",
+      "total": 135,
+      "status": "settled",
+      "type": "药品采购",
+      "billType": "pharmacy",
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T01:48:26.203Z",
+      "items": [
+        {
+          "name": "阿莫西林克拉维酸钾",
+          "price": 45,
+          "amount": 3,
+          "unit": "件"
+        }
+      ],
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "DRUG-1775183348742",
+      "ownerPhone": "15520177167",
+      "total": 474,
+      "status": "pending",
+      "type": "药品采购",
+      "billType": "pharmacy",
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T02:29:08.742Z",
+      "items": [
+        {
+          "name": "博来恩 (Broadline)",
+          "price": 158,
+          "amount": 3,
+          "unit": "件"
+        }
+      ],
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "DRUG-1775183386087",
+      "ownerPhone": "15520177167",
+      "total": 316,
+      "status": "pending",
+      "type": "药品采购",
+      "billType": "pharmacy",
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T02:29:46.088Z",
+      "items": [
+        {
+          "name": "博来恩 (Broadline)",
+          "price": 158,
+          "amount": 2,
+          "unit": "件"
+        }
+      ],
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "DRUG-1775189074058",
+      "ownerPhone": "15520187167",
+      "total": 76.5,
+      "status": "settled",
+      "type": "药品采购",
+      "billType": "pharmacy",
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T04:04:34.058Z",
+      "items": [
+        {
+          "name": "阿莫西林克拉维酸钾",
+          "price": 45,
+          "amount": 2,
+          "unit": "件"
+        }
+      ],
+      "paymentMethod": "wechat"
+    },
+    {
+      "id": "DRUG-1775189104808",
+      "ownerPhone": "15520187167",
+      "total": 38.25,
+      "status": "settled",
+      "type": "药品采购",
+      "billType": "pharmacy",
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T04:05:04.808Z",
+      "items": [
+        {
+          "name": "阿莫西林克拉维酸钾",
+          "price": 45,
+          "amount": 1,
+          "unit": "件"
+        }
+      ],
+      "paymentMethod": "balance"
+    },
+    {
+      "id": "DRUG-1775189613241",
+      "ownerPhone": "15520187167",
+      "total": 72.25,
+      "status": "settled",
+      "type": "药品采购",
+      "billType": "pharmacy",
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T04:13:33.242Z",
+      "items": [
+        {
+          "name": "海乐妙 (Milbemax)",
+          "price": 85,
+          "amount": 1,
+          "unit": "件"
+        }
+      ],
+      "paymentMethod": "balance"
+    },
+    {
+      "id": "DRUG-1775216725497",
+      "ownerPhone": "15520187167",
+      "total": 72.25,
+      "status": "settled",
+      "type": "药品采购",
+      "billType": "pharmacy",
+      "date": "2026-04-03",
+      "createdAt": "2026-04-03T11:45:25.497Z",
+      "items": [
+        {
+          "name": "海乐妙 (Milbemax)",
+          "price": 85,
+          "amount": 1,
+          "unit": "件"
+        }
+      ],
+      "paymentMethod": "wechat"
     }
   ]
 }
